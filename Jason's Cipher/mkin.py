@@ -13,7 +13,7 @@ else:
     # contestant code
     word = ""
     n = randint(8, 16)
-    j = randint(1, 8)
+    j = randint(1, 6)
     i = 0
     while i < n:
         c = randint(33, 116)

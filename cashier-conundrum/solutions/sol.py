@@ -11,7 +11,4 @@ for _ in range(y):
         coins += num_coin
         change = change % value
         output.append(num_coin)
-        # if change == 0:
-            # break
-    # print(coins)
     print(*output)
