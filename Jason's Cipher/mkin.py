@@ -4,10 +4,10 @@ case_num = int(input())
 # 0 and 1 are the sample cases
 if case_num == 0:
     print(1)
-    print(1, "encryptpassword")
+    print("encryptpassword")
 elif case_num == 1:
     print(2)
-    print(2, "Str0ngPassw.?!")
+    print("Str0ngPassw.?!")
 else:
     # output what should be read in as input by
     # contestant code
