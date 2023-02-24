@@ -1,0 +1,19 @@
+18
+Rakdos Signet
+Ignoble Hierarch
+command tower
+Boros Charm
+Dovin's Veto
+Anguished Unmaking
+Terminate
+Growth Spiral
+Despark
+Izzet Signet
+Dimir Signet
+command tower
+Azorius Signet
+Boros Signet
+Talisman of Dominance
+Talisman of Hierarchy
+Talisman of Indulgence
+Talisman of Conviction

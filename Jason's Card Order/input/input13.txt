@@ -1,0 +1,13 @@
+12
+Rakdos Signet
+Ignoble Hierarch
+command tower
+Boros Charm
+Dovin's Veto
+Anguished Unmaking
+Terminate
+command tower
+Despark
+Izzet Signet
+Dimir Signet
+Orzhov Signet

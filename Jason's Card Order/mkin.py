@@ -15,7 +15,7 @@ if case_num == 0:
     print("Exotic Orchard")
     print("Command Tower")
 elif case_num == 1:
-    print(5, 4)
+    print(10)
     print("War Room")
     print("Exotic Orchard")
     print("Plains")
@@ -34,10 +34,10 @@ else:
                 , "Anguished Unmaking", "Terminate", "Growth Spiral", "Despark", "Izzet Signet"
                 , "Dimir Signet", "Orzhov Signet", "Azorius Signet", "Boros Signet", "Talisman of Dominance"
                 , "Talisman of Hierarchy", "Talisman of Indulgence", "Talisman of Conviction", "Rhythm of the Wild", "Aura Shards"]
-    n = randint(10, 21)
-    j = randint(0, 3)
-    r1 = randint(0, n/2)
-    r2 = randint(n/2, n)
+    n = randint(10, 20)
+    j = randint(0, 2)
+    r1 = randint(0, n//2 - 1)
+    r2 = randint(n//2, n - 1)
     print(n)
     i = 0
     while i < n:
@@ -45,3 +45,4 @@ else:
             print(duplicate[j])
         else:
             print(cardList[i])
+        i += 1

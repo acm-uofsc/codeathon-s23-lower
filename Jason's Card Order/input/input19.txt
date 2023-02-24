@@ -1,0 +1,13 @@
+12
+Rakdos Signet
+command tower
+Assassin's Trophy
+Boros Charm
+Dovin's Veto
+Anguished Unmaking
+command tower
+Growth Spiral
+Despark
+Izzet Signet
+Dimir Signet
+Orzhov Signet

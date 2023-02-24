@@ -1,0 +1,17 @@
+16
+Rakdos Signet
+command tower
+Assassin's Trophy
+Boros Charm
+Dovin's Veto
+Anguished Unmaking
+Terminate
+Growth Spiral
+Despark
+Izzet Signet
+Dimir Signet
+Orzhov Signet
+Azorius Signet
+command tower
+Talisman of Dominance
+Talisman of Hierarchy

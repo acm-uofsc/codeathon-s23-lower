@@ -1,4 +1,4 @@
-cases = input()
+cases = int(input())
 i = 0
 cardDictionary = {}
 while i < cases:
