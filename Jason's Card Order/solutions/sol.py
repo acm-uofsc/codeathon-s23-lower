@@ -7,3 +7,4 @@ while i < cases:
         print(card)
         break
     cardDictionary[card] = True
+    i += 1
